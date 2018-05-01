@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/shopspring/decimal"
+	"github.com/Jay54520/decimal"
 )
 
 // Exchange info
